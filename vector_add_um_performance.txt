@@ -1,0 +1,75 @@
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.537 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.025 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.024 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.022 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.026 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.019 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.023 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.02 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.021 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.021 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.021 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.022 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.022 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.024 seconds
+---------------------------------------------
+Number of array elements (n): 16384
+Number of threads: 0
+Number of blocks: 64
+Total time: 0.022 seconds
+---------------------------------------------
